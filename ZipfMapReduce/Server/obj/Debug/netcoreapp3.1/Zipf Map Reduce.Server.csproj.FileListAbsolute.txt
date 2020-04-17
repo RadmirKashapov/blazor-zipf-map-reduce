@@ -1,0 +1,54 @@
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Zipf Map Reduce.Client.blazor.config
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Zipf Map Reduce.Server.exe
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Zipf Map Reduce.Server.deps.json
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Zipf Map Reduce.Server.runtimeconfig.json
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Zipf Map Reduce.Server.runtimeconfig.dev.json
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Zipf Map Reduce.Server.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Zipf Map Reduce.Server.pdb
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.Server.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Mdb.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Pdb.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.Rocks.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Mono.Cecil.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Mono.WebAssembly.Interop.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Zipf Map Reduce.Client.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Zipf Map Reduce.Shared.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Zipf Map Reduce.Client.pdb
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\bin\Debug\netcoreapp3.1\Zipf Map Reduce.Shared.pdb
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\obj\Debug\netcoreapp3.1\Zipf Map Reduce.Server.csprojAssemblyReference.cache
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\obj\Debug\netcoreapp3.1\Zipf Map Reduce.Server.csproj.CoreCompileInputs.cache
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\obj\Debug\netcoreapp3.1\Zipf Map Reduce.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\obj\Debug\netcoreapp3.1\Zipf Map Reduce.Server.AssemblyInfoInputs.cache
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\obj\Debug\netcoreapp3.1\Zipf Map Reduce.Server.AssemblyInfo.cs
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\obj\Debug\netcoreapp3.1\Zipf Map Reduce.Server.RazorTargetAssemblyInfo.cache
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\obj\Debug\netcoreapp3.1\Zipf Map Reduce.Server.csproj.CopyComplete
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\obj\Debug\netcoreapp3.1\staticwebassets\Zipf Map Reduce.Server.StaticWebAssets.Manifest.cache
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\obj\Debug\netcoreapp3.1\staticwebassets\Zipf Map Reduce.Server.StaticWebAssets.xml
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\obj\Debug\netcoreapp3.1\Zipf Map Reduce.Server.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\obj\Debug\netcoreapp3.1\Zipf Map Reduce.Server.pdb
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Server\obj\Debug\netcoreapp3.1\Zipf Map Reduce.Server.genruntimeconfig.cache

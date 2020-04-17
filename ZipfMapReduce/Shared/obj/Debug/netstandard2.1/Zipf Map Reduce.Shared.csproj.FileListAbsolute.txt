@@ -1,0 +1,9 @@
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Shared\bin\Debug\netstandard2.1\Zipf Map Reduce.Shared.deps.json
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Shared\bin\Debug\netstandard2.1\Zipf Map Reduce.Shared.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Shared\bin\Debug\netstandard2.1\Zipf Map Reduce.Shared.pdb
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Shared\obj\Debug\netstandard2.1\Zipf Map Reduce.Shared.csprojAssemblyReference.cache
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Shared\obj\Debug\netstandard2.1\Zipf Map Reduce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Shared\obj\Debug\netstandard2.1\Zipf Map Reduce.Shared.AssemblyInfoInputs.cache
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Shared\obj\Debug\netstandard2.1\Zipf Map Reduce.Shared.AssemblyInfo.cs
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Shared\obj\Debug\netstandard2.1\Zipf Map Reduce.Shared.dll
+C:\Users\mylif\source\repos\Projects\Zipf Map Reduce\BlazorWithMongo\Shared\obj\Debug\netstandard2.1\Zipf Map Reduce.Shared.pdb

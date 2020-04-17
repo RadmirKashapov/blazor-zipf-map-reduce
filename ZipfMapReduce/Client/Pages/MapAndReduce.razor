@@ -1,0 +1,47 @@
+﻿@page "/mapandreduce"
+@inherits MapAndReduceModel
+
+<head>
+    <link href="_content/Syncfusion.Blazor/styles/bootstrap4.css" rel="stylesheet" />
+</head>
+<h1>Employee Data</h1>
+<h3>CRUD operation with Blazor using MongoDB</h3>
+
+
+<div>
+    <div style="float:left">
+        <button class="btn btn-primary" onclick="@(Run())">Start</button>
+    </div>
+</div>
+
+@if (wordList == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <SfChart Title="Score of Final Examination">
+        <ChartArea><ChartAreaBorder Width="0"></ChartAreaBorder></ChartArea>
+
+        <ChartPrimaryXAxis Minimum="0" Maximum="100">
+            <ChartAxisMajorGridLines Width="0"></ChartAxisMajorGridLines>
+        </ChartPrimaryXAxis>
+
+        <ChartPrimaryYAxis Minimum="0" Maximum="6" Interval="2" Title="Number of Students">
+            <ChartAxisMajorGridLines Width="0"></ChartAxisMajorGridLines>
+        </ChartPrimaryYAxis>
+
+        <ChartSeriesCollection>
+            <ChartSeries DataSource="@wordList" YName="Count" XName="Value" Type="ChartSeriesType.Histogram" BinInterval="20" ShowNormalDistribution="true" ColumnWidth="0.99">
+                <ChartMarker Visible="true" Height="10" Width="10">
+                    <ChartDataLabel Visible="true" Position="LabelPosition.Top">
+                        <ChartDataLabelFont Color="#ffffff" FontWeight="600"></ChartDataLabelFont>
+                    </ChartDataLabel>
+                </ChartMarker>
+            </ChartSeries>
+        </ChartSeriesCollection>
+
+        <ChartTooltipSettings Enable="true"></ChartTooltipSettings>
+    </SfChart>
+
+}

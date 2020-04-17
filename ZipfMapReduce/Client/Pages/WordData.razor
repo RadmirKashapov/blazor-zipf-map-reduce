@@ -1,0 +1,33 @@
+﻿@page "/wordrecords"
+@inherits WordDataModel
+
+<h1>Word Data</h1>
+<h3>Here you can see all words</h3>
+
+
+@if (wordList == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class='table'>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Value</th>
+                <th>Count</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var wrd in wordList)
+            {
+                <tr>
+                    <td>@wrd.Id</td>
+                    <td>@wrd.Value</td>
+                    <td>@wrd.Count</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

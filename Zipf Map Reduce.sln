@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29911.84
+VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zipf Map Reduce", "Zipf Map Reduce.csproj", "{9315FAD3-4C33-4155-AC4D-FBB9D19FE54E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZipfMapReduce.Server", "ZipfMapReduce\Server\ZipfMapReduce.Server.csproj", "{BE2F6887-11F6-48F5-AE86-997B585902A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZipfMapReduce.Client", "ZipfMapReduce\Client\ZipfMapReduce.Client.csproj", "{C9B9B310-8EC1-4250-A6CC-5AA7976B1323}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZipfMapReduce.Shared", "ZipfMapReduce\Shared\ZipfMapReduce.Shared.csproj", "{52F09E86-028F-42D2-8517-020EBEE4756C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +15,23 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9315FAD3-4C33-4155-AC4D-FBB9D19FE54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9315FAD3-4C33-4155-AC4D-FBB9D19FE54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9315FAD3-4C33-4155-AC4D-FBB9D19FE54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9315FAD3-4C33-4155-AC4D-FBB9D19FE54E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE2F6887-11F6-48F5-AE86-997B585902A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2F6887-11F6-48F5-AE86-997B585902A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2F6887-11F6-48F5-AE86-997B585902A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2F6887-11F6-48F5-AE86-997B585902A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B9B310-8EC1-4250-A6CC-5AA7976B1323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B9B310-8EC1-4250-A6CC-5AA7976B1323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B9B310-8EC1-4250-A6CC-5AA7976B1323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B9B310-8EC1-4250-A6CC-5AA7976B1323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F09E86-028F-42D2-8517-020EBEE4756C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F09E86-028F-42D2-8517-020EBEE4756C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F09E86-028F-42D2-8517-020EBEE4756C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F09E86-028F-42D2-8517-020EBEE4756C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {24AD4B4C-FF41-4EE2-9CF3-E3F57C5105E5}
+		SolutionGuid = {87D531EF-F363-43F8-84DF-FAD7793ECBDF}
 	EndGlobalSection
 EndGlobal
